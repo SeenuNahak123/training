@@ -1,0 +1,4 @@
+Python is awesome
+File handling is powerful
+Practice makes perfect
+new line is added
