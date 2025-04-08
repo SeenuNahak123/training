@@ -1,0 +1,6 @@
+Here are four ways to use the free training and documentation available to you:
+See what's new and popular on Microsoft Learn.
+Explore quickstarts, tutorials, API references, and code examples.
+Find answers to questions about Microsoft Learn.
+Make it easier to access your modules in progress, bookmarks, and collections.Log entry created at 2025-04-08 10:24:46.539974: This is a log message.
+Log entry created at 2025-04-08 10:24:54.601170: This is a log message.

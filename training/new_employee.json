@@ -1,0 +1,29 @@
+{
+    "employee": {
+        "id": 102,
+        "name": "Ravi",
+        "department": "HR",
+        "skills": [
+            "communication",
+            "Recruitment",
+            "Excel"
+        ],
+        "address": {
+            "city": "delhi",
+            "zip": "200010"
+        },
+        "1": {
+            "id": 103,
+            "name": "Rahul",
+            "department": "IT",
+            "skills": [
+                "Security",
+                "pipeline"
+            ],
+            "address": {
+                "city": "mumbai",
+                "zip": "302073"
+            }
+        }
+    }
+}
