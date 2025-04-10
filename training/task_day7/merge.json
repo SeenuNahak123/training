@@ -1,0 +1,22 @@
+{
+    "p1": {
+        "Name": "abc",
+        "School": "AAA",
+        "Address": "chennai",
+        "Age": 12,
+        "Phone": 123456789
+    },
+    "p2": {
+        "Name": "xyz",
+        "School": "BBB",
+        "Address": "Mumbai",
+        "Age": 12,
+        "Phone": 987654321
+    },
+    "p3": {
+        "Name": "Seenu",
+        "Age": 24,
+        "Job": "IT",
+        "location": "bangalore"
+    }
+}

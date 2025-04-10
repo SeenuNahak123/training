@@ -80,7 +80,7 @@
 
 
 
-import json
+# import json
 # #json file contains data in key:value
 
 # # with open('data.json','r') as j:
@@ -88,19 +88,19 @@ import json
 
 # # print(type(d))
 
-d={'Name':'abc',
-   'School':'AAA',
-   'Address':'chennai',
-   'Age':12,
-   'Phone':123456789,
-   'lang':'हिंदी'}
+# d={'Name':'abc',
+#    'School':'AAA',
+#    'Address':'chennai',
+#    'Age':12,
+#    'Phone':123456789,
+#    'lang':'हिंदी'}
 
-j_obj=json.dumps(d)                 #dumps - to convert a python object to json object & dump - to load json object to json file
-p_obj=json.loads(j_obj)             #loads - json object to python object
+# j_obj=json.dumps(d)                 #dumps - to convert a python object to json object & dump - to load json object to json file
+# p_obj=json.loads(j_obj)             #loads - json object to python object
 
 
-print(j_obj,type(j_obj))
-print(p_obj,type(p_obj))
+# print(j_obj,type(j_obj))
+# print(p_obj,type(p_obj))
 
 # with open('new.json','w') as w:
 #     json.dump(d,w,indent=4,sort_keys=True) #data,file_name
