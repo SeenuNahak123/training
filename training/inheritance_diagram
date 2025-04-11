@@ -1,0 +1,11 @@
+digraph {
+	Animal [label=Animal]
+	Mammal [label=Mammal]
+	Bird [label=Bird]
+	Dog [label=Dog]
+	Cat [label=Cat]
+	Animal -> Mammal
+	Animal -> Bird
+	Mammal -> Dog
+	Mammal -> Cat
+}
