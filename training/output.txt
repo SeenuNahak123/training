@@ -1,0 +1,56 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A22C-464A
+
+ Directory of c:\Users\seenu.nahak\training
+
+04/16/2025  02:44 PM    <DIR>          .
+04/16/2025  02:44 PM    <DIR>          ..
+04/05/2025  11:46 AM               380 callstack.py
+04/08/2025  10:42 AM                69 data.json
+04/10/2025  11:19 AM            20,183 day1.ipynb
+04/11/2025  05:39 PM            40,189 day10.ipynb
+04/15/2025  05:38 PM            29,969 day12.ipynb
+04/16/2025  10:45 AM             8,506 day13.ipynb
+04/16/2025  11:44 AM             2,026 day13_api1.py
+04/16/2025  12:07 PM               773 day13_api2.py
+04/16/2025  12:09 PM               683 day13_api3.py
+04/16/2025  12:10 PM               678 day13_api4.py
+04/16/2025  02:44 PM             8,295 day13_subprocess.ipynb
+04/03/2025  06:00 PM            43,121 day2.ipynb
+04/05/2025  04:40 PM            14,744 day4.ipynb
+04/05/2025  03:54 PM            24,426 day5.ipynb
+04/09/2025  05:42 PM            39,579 day6.ipynb
+04/10/2025  10:24 AM             8,726 day7.py
+04/09/2025  05:42 PM            40,201 day8.ipynb
+04/09/2025  03:05 PM                 5 day8_ques7.txt
+04/10/2025  04:45 PM            11,388 day9_1.py
+04/10/2025  05:56 PM             5,974 day9_2.ipynb
+04/08/2025  10:24 AM               471 demo.txt
+04/08/2025  09:42 AM                71 demo1.txt
+04/08/2025  10:33 AM                30 demo2.txt
+04/08/2025  09:56 AM                 0 demo3.txt
+04/12/2025  03:48 PM             9,623 dey11.ipynb
+04/08/2025  04:38 PM               147 employee.yaml
+04/09/2025  10:16 AM                 0 error.log
+04/07/2025  03:40 PM    <DIR>          example
+04/08/2025  10:50 AM             1,704 example-day7.py
+04/04/2025  12:47 PM               241 example.log
+04/11/2025  12:33 PM               186 inheritance_diagram
+04/08/2025  03:12 PM               145 new.json
+04/08/2025  12:58 PM               630 new_employee.json
+04/08/2025  04:49 PM               318 new_employee.yaml
+04/16/2025  02:44 PM                 0 output.txt
+04/08/2025  02:22 PM               100 people.csv
+04/08/2025  02:23 PM                58 people1.csv
+04/08/2025  02:40 PM               171 people2.csv
+04/08/2025  04:19 PM               216 people3.csv
+04/08/2025  04:31 PM                52 project.yaml
+04/04/2025  11:13 AM               714 recursion.py
+04/03/2025  06:00 PM               200 si.py
+04/10/2025  10:37 AM    <DIR>          task_day7
+04/08/2025  03:35 PM               135 test.csv
+04/08/2025  04:49 PM               284 ytoj.json
+04/08/2025  04:49 PM               147 ytoj.yaml
+04/03/2025  10:39 AM    <DIR>          __pycache__
+              44 File(s)        315,558 bytes
+               5 Dir(s)  773,378,891,776 bytes free
