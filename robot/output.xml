@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2.2 (Python 3.12.3 on win32)" generated="2025-04-19T16:46:13.857989" rpa="false" schemaversion="5">
+<suite id="s1" name="Ssh Download" source="C:\Users\seenu.nahak\robot\ssh_download.robot">
+<test id="s1-t1" name="Download File From Server" line="12">
+<kw name="Open Connection" owner="SSHLibrary">
+<arg>${HOST}</arg>
+<doc>Opens a new SSH connection to the given ``host`` and ``port``.</doc>
+<status status="PASS" start="2025-04-19T16:46:14.019557" elapsed="0.001026"/>
+</kw>
+<kw name="Login" owner="SSHLibrary">
+<msg time="2025-04-19T16:46:14.020583" level="INFO">Logging into 'test.rebex.net:22' as 'demo'.</msg>
+<msg time="2025-04-19T16:46:17.046827" level="FAIL">TimeoutError: timed out</msg>
+<arg>${USERNAME}</arg>
+<arg>${PASSWORD}</arg>
+<doc>Logs into the SSH server with the given ``username`` and ``password``.</doc>
+<status status="FAIL" start="2025-04-19T16:46:14.020583" elapsed="3.031236">TimeoutError: timed out</status>
+</kw>
+<kw name="Get File" owner="SSHLibrary">
+<arg>${REMOTE_FILE}</arg>
+<arg>${LOCAL_PATH}</arg>
+<doc>Downloads file(s) from the remote machine to the local machine.</doc>
+<status status="NOT RUN" start="2025-04-19T16:46:17.052742" elapsed="0.000000"/>
+</kw>
+<kw name="Close Connection" owner="SSHLibrary">
+<doc>Closes the current connection.</doc>
+<status status="NOT RUN" start="2025-04-19T16:46:17.053416" elapsed="0.000000"/>
+</kw>
+<status status="FAIL" start="2025-04-19T16:46:14.019557" elapsed="3.034337">TimeoutError: timed out</status>
+</test>
+<status status="FAIL" start="2025-04-19T16:46:13.859983" elapsed="3.194933"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Ssh Download" id="s1" pass="0" fail="1" skip="0">Ssh Download</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
