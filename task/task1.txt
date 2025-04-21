@@ -1,0 +1,43 @@
+Check end of file in Python
+Last Updated : 28 Nov, 2024
+In Python, checking the end of a file is easy and can be done using different methods. One of the simplest ways to check the end of a file is by reading the file's content in chunks. When read() method reaches the end, it returns an empty string.
+
+
+
+
+f = open("file.txt", "r")
+
+# Read the entire content of the file into the variable 'content'
+content = f.read()
+# Check if the file content is empty
+if content == "":
+    print("End of file reached")
+f.close()
+Output:
+
+End of file reached
+Other methods which we can use are:
+
+Table of Content
+
+Using for Loop
+Using file.seek() and file.tell()
+Using for Loop
+Python provides a cleaner way to read through files using a for loop. The for loop automatically stops when it reaches the end of the file.
+
+
+
+
+f = open("file.txt", "r")
+
+# Iterate through each line in the file
+for line in f:
+    print(line, end="")
+print("End of file reached")
+f.close()
+Output:
+
+hello world
+End of file reached
+Using file.seek() and file.tell()
+In some cases, we may want to check the file position manually using seek() and tell(). The tell() function gives the current position of the file pointer, and seek() moves it to a specific location.
