@@ -1,0 +1,1 @@
+Explanation: reverse parameter is demonstrated in the sorted() function. When reverse=True, the function sorts the data in descending order instead of the default ascending order. This example sorts a list of strings in reverse order based on their lexicographical order, meaning that the list is ordered from Z to A instead of A to Z.
