@@ -29,15 +29,13 @@ Python provides a cleaner way to read through files using a for loop. The for lo
 
 
 f = open("file.txt", "r")
-
 # Iterate through each line in the file
 for line in f:
     print(line, end="")
 print("End of file reached")
 f.close()
 Output:
-
 hello world
 End of file reached
 Using file.seek() and file.tell()
-In some cases, we may want to check the file position manually using seek() and tell(). The tell() function gives the current position of the file pointer, and seek() moves it to a specific location.
+In some cases, we may want to check the file position manually using seek() and tell(). The tell() function gives the current position of the file pointer, and seek() moves it to a specific location.n f
